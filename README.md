@@ -5,7 +5,7 @@
 ```diff
 + 📌 Who I Am:
   • 🎓 18-year-old Computer Science student with a strong focus on cybersecurity
-  • 🔐 Passionate about building secure systems and understanding how they break
+  • 🔐 Passionate about coding and building secure systems and understanding how they break
   • 💻 Dedicated to mastering code, systems, and offensive/defensive security practices
   
 + 🧠 Current Goals:
